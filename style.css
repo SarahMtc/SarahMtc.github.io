@@ -72,6 +72,21 @@ a:hover {
     background-size: auto!important;
 }
 
+#title, #title_2
+{
+    font-size: 25px;
+}
+
+#citation
+{
+    font-size: 20px;
+}
+
+#sous_citation
+{
+    font-size: 13px;
+}
+
 .bg-repeat {
     background: repeat;
 }
@@ -822,7 +837,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
